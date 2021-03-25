@@ -6,5 +6,5 @@ numpy==1.18.2
 nibabel==3.0.0
 albumentations==0.4.5
 glog==0.3.1
-PyYAML==5.3.1
+PyYAML==5.4
 torchsummary==1.5.1
